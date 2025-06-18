@@ -1,1 +1,3 @@
-print("Hoal mundo")
+def decir_hola():
+  return "Hola!"
+  
